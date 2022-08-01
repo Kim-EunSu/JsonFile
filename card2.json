@@ -1,0 +1,28 @@
+{
+  "card2": [
+    {
+      "id": 1,
+      "image": "assets/img/cafe1.jpg",
+      "title": "로우커피스탠드",
+      "desc": "서울특별시 성동구 왕십리로4길 28-2 1F"
+    },
+    {
+      "id": 2,
+      "image": "assets/img/cafe2.jpg",
+      "title": "프롤라",
+      "desc": "서울특별시 성동구 성수일로4길 49-1"
+    },
+    {
+      "id": 3,
+      "image": "assets/img/cafe3.jpg",
+      "title": "로우키",
+      "desc": "서울특별시 성동구 연무장3길 6"
+    },
+    {
+      "id": 4,
+      "image": "assets/img/cafe4.jpg",
+      "title": "아우프글렛",
+      "desc": "서울특별시 성동구 독서당로51길 7 1F"
+    }
+  ]
+}
