@@ -1,0 +1,18 @@
+{
+  "image": [
+    {
+      "id": 1,
+      "image": "../assets/img/image_bg01.jpg",
+      "title": "애교만점 웰시코기",
+      "desc1": "제목은 넥슨 풋볼 고딕 폰트입니다.",
+      "desc2": "설명부분은 넥슨 LV1 고딕 16px 140% 입니다."
+    },
+    {
+      "id": 2,
+      "image": "../assets/img/image_bg02.jpg",
+      "title": "코카스 파니엘",
+      "desc1": "제목은 넥슨 풋볼 고딕 폰트입니다.",
+      "desc2": "설명부분은 넥슨 LV1 고딕 16px 140% 입니다."
+    }
+  ]
+}
