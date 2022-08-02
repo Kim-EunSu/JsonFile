@@ -1,0 +1,22 @@
+{
+  "image": [
+    {
+      "id": 1,
+      "image": "assets/img/bread1.jpg",
+      "title": "오헨",
+      "desc": "여의도 - 베이커리"
+    },
+    {
+      "id": 2,
+      "image": "assets/img/bread2.jpg",
+      "title": "파네트크루아상팩토리",
+      "desc": "광화문 - 베이커리"
+    },
+    {
+      "id": 3,
+      "image": "assets/img/bread3.jpg",
+      "title": "빵의 정석",
+      "desc": "왕십리/성동 - 베이커리"
+    }
+  ]
+}
